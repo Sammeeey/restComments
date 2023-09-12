@@ -3,11 +3,11 @@
 - [based on RESTful comments tutorial by Colt Steele (paid)](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22117132#announcements)
 
 ## methods / API
-create: get /comments/new -> post /comments
-readall: get /comments
-readone: get /comments/:id
-update: get /comments/:id/edit -> patch /comments/:id
-delete: delete /comments/:id
+- create: get /comments/new -> post /comments
+- readall: get /comments
+- readone: get /comments/:id
+- update: get /comments/:id/edit -> patch /comments/:id
+- delete: delete /comments/:id
 
 ## lessons learned (Building Node/Express App)
 ### installations
