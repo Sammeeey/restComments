@@ -2,6 +2,8 @@
 - 1st express CRUD app
 - [based on RESTful comments tutorial by Colt Steele (paid)](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22117132#announcements)
 
+https://github.com/Sammeeey/restComments/assets/49591562/15bafa3d-b839-4563-a347-b4bd3f2699a1
+
 ## methods / API
 - create: get /comments/new -> post /comments
 - readall: get /comments
