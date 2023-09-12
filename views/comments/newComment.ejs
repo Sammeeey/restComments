@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<%- include('../partials/head') %>
+    
+<body>
+    <%- include('../partials/nav') %>
+    <h1>New Comment</h1>
+    <form method="post" action="/comments">
+        <input type="text" placeholder="username" name="username" id="username">
+        <textarea name="commentText" id="commentText" placeholder="comment" cols="30" rows="10"></textarea>
+        <button type="submit">create new comment</button>
+    </form>
+</body>
+
+<%- include('../partials/footer') %>
+
+</html>
