@@ -34,3 +34,9 @@
 ### handle HTTP requests
 - browser can only handle GET & POST
   - use `method-override` middleware to modify query parameters of post requests in to send data via different HTTP methods (e.g. DELETE, PATCH, etc.)
+
+### tools used
+- ([hoppscotch.io](https://hoppscotch.io/) for API testing)
+- [EJS](https://ejs.co/) for templating
+- [expressJs](https://expressjs.com/) for routing!?
+- nodemon (during development)
